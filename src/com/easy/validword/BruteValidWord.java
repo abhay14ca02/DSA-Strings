@@ -19,7 +19,7 @@ public class BruteValidWord {
 	}
 
 	public static void main(String[] args) {
-		String word = "2341AAdas";
+		String word = "234AAdas";
 		boolean isValid = isValidWord(word);
 		System.out.println(isValid);
 	}
